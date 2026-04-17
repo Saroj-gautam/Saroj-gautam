@@ -1,4 +1,5 @@
 # Saroj Gautam
+![alt text](image.png)
 
 **Computer Engineering Educator | Academic Coordinator | IT Support Professional**
 
