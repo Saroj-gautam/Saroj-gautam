@@ -1,5 +1,5 @@
 # Saroj Gautam
-![alt text](image.png)
+
 <img src="C:\Users\user\Downloads\saroj CV (2).docx" alt="Saroj Gautam" width="180">
 
 **Computer Engineering Educator | Academic Coordinator | IT Support Professional**
